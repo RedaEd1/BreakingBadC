@@ -1,0 +1,22 @@
+html {
+  font-family: monospace;
+  font-size: 13pt;
+  background-color: #000000;
+  color: white;
+  background-image: url(./gudback.jpg);
+}
+summary {
+  color: white;
+  text-align: center;
+}
+#name {
+  text-align: center;
+}
+img {
+  position: relative;
+  left: 43%;
+  border-radius: 50%;
+}
+a {
+  color: red;
+}

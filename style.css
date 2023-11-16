@@ -1,0 +1,134 @@
+.Header {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+}
+.logname {
+  display: inline-block;
+  margin-left: 20px;
+}
+h3 {
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+.pages {
+  float: right;
+  margin-right: 30px;
+}
+.imgbb {
+  width: 100%;
+  object-fit: cover;
+  height: 670px;
+  margin-bottom: 0%;
+}
+.choose {
+  background-color: black;
+  border-radius: 10px;
+}
+.chose {
+  color: white;
+  padding: 50px;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-top: 0%;
+  font-size: 50px;
+  margin-bottom: 0%;
+}
+.walter {
+  background-color: black;
+  border-radius: 1px;
+}
+.walterimg {
+  width: 300px;
+  position: relative;
+  left: 15%;
+  
+}
+.walterwiki {
+  color: #29773E;
+  float: right;
+  width: 60%;
+  position: relative;
+  right: 95x;
+  top: 25%;
+  font-size: 17px;
+  margin-top: 10px;
+  font-family: monospace;
+  margin-right: 50px;
+  line-height: 2;
+}
+
+.gus {
+  background-color: black;
+  padding-top: 100px;
+
+}
+.gusimg {
+  width: 300px;
+  position: relative;
+  left: 15%;
+}
+.gusswiki {
+  color: #29773E;
+  float: right;
+  width: 60%;
+  position: relative;
+  right: 95x;
+  top: 30%;
+  font-size: 17px;
+  margin-top: 10px;
+  font-family: monospace;
+  margin-right: 50px;
+  line-height: 2;
+  padding-top: 100px;
+
+
+}
+.saul {
+  background-color: black;
+  padding-top: 100px;
+}
+.saulimg {
+  width: 300px;
+  position: relative;
+  left: 15%;
+}
+.saulwiki {
+  color: #29773E;
+  float: right;
+  width: 60%;
+  position: relative;
+  right: 95x;
+  top: 30%;
+  font-size: 17px;
+  margin-top: 10px;
+  font-family: monospace;
+  margin-right: 50px;
+  line-height: 2;
+  padding-top: 100px;
+}
+.hank {
+  background-color: black;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.hankimg {
+  width: 350px;
+  position: relative;
+  left: 13%;
+}
+.hankwiki {
+  color: #29773E;
+  float: right;
+  width: 60%;
+  position: relative;
+  right: 95x;
+  top: 30%;
+  font-size: 17px;
+  margin-top: 10px;
+  font-family: monospace;
+  margin-right: 50px;
+  line-height: 2;
+  padding-top: 100px;
+}
